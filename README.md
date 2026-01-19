@@ -21,6 +21,12 @@ This project performs basic arithmetic operations with a clean glassmorphism UI.
 
 ---
 
+## Live Demo
+
+[Click Here to View Project](https://calculator-project-iota-sage.vercel.app/)
+
+---
+
 ## Technologies Used
 
 - **HTML** – Structure  
