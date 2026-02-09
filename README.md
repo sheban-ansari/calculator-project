@@ -1,5 +1,3 @@
-# calculator-project
-
 # Stylish Calculator Web App
 
 A modern, responsive and stylish calculator built using **HTML, CSS and JavaScript**.  
